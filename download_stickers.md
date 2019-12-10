@@ -8,11 +8,8 @@
 
 **Сценарий:**
 1. Пользователь открывает меню для выбора конкретного стикера.
-2. Приложение предлагает выбрать стикер из конкретного набора или загрузить новый набор стикеров.
+2. Приложение предлагает [выбрать стикер из конкретного набора](https://github.com/polinanov/use-case-and-diagram/blob/master/send_stickers.md "Выбрать стикер из конкретного набора") и отправить его или загрузить новый набор стикеров.
 3. Пользователь выбирает загрузить новый набор стикеров.
-
-Пользователь может [выбрать стикер из конкретного набора](https://github.com/polinanov/use-case-and-diagram/blob/master/send_stickers.md "Выбрать стикер из конкретного набора").
-
 4. Приложение открывает меню загруки: создать набор своих стикеров или загрузить набор существующих стикеров.
 5. Пользователь выбирает загрузить (создать) набор своих стикеров.  
 
@@ -53,5 +50,5 @@
 ![activity_for_personal_call](http://www.plantuml.com/plantuml/png/pLHDYzj03BtFhn3qua2XXTxYomPwsKFRi1_iMHdBcw6svCveDYtanzVou6QzTIdqqZqb5i_lGq_uAYb6pNtdplU9ujbDpsxxYJY32YJgo2leaK1_30JIWiUkgztvpOurVClqS0nAvzqmTC6Z1k6p2orKj-ilRcp2K65kWfI90zW-OD30Zz1A18H8QH1E16sKVgB8YI9K7zv38h-f7O19t2nW1fdPlJ2JLwE6aVs6Hfz9BK-FNmcGuQ9V_mxI71c49-K--2Z3KPXcu9U1E0524R74K5tlOHz5nKitsQCk4LIJQnQ54gWP4ywMFek6Db02QSrEvfIzfvJQt06gKZ_ynUujFjd26bG4F4ZM1OT15qGMfJdKBzNdtHOAUrotOYv_oTEOf7MkP7mA3QqNMOZdBl-jlVNwu29Qpw2xFzK6oCq8xIcYWVzRXURvrLLOVhPtHxeKfG88BtpK4wPOEWLkv0HYEnpdzn_txwxt9GLzzqVaHteB6f5J7zIEeLnlGLJ8JLd5ffu_EOLQ-g4ZgyASMegYwzpos_Bi6Yp5C-Hsn-b4qIOB-ol4gu5y9ud6H7ClCxGO3-MkxFy14usmqe37cTfAIAM5XV-aChWhuYRttKy00 "Диаграмма activity")
 
 # Диаграмма sequence
-![sequence_for_personal_call](http://www.plantuml.com/plantuml/png/lP6nQiD038RtUmgHAO7c1JAKcBv0IUXirBC2HsNvUf82UVlU9KFSug6bfJTea3x-JvRtQbZCHmxwbYHZmH6KtfqaqdETf9WoYe7BG8MJK0WORIhmebJ2wrJxM2wmwdBc5D7I92j0XIw4Hi3s4ReT78afMc-NJ7r4vlMcfQGp6ZMoWstbhlmE3cHUPDtOJHXepiqZ3sr9jQMuW6oW7YEfdfmXebA0-XOznQkdJJ-vMcDcUsgM6tQ7lcJ-D78QCvDH7_y--uXdwkyNk2a4Hte0IwqENgx_wfTQOYLm-UwjJyYw40EBwxlymmT0Uu5a2FjQVEGF "Диаграмма sequence")
+![sequence_for_personal_call](http://www.plantuml.com/plantuml/png/ZP8nRy8m48Lt_ueJNSZ07s2eYCJU2jJPEkm3MN7EgUzCoxylGQMDHGQoHNxVy_FTsuXYrj978rtW0JFs8FHPY1szOzRWme2iKDXJZe7967IQCdm8PND8XJtc2opQOOZ1eOR42q21rfXH0QjNQDVmDX3RdhWicn4FPrGQ9IsiheARS0qxqf9vgRbGOpnDTHEhRVhYcD1RqU0wodP0rrMsyBB5tEqnzecDCHWLX1JI4IwfPFZb11mA6RX-xJIbf8vqsS3jP69w-wzIFQ37bFjhaXgSvoOFsbCafpRqUA8dwVQEufbgyDcyhKWuiNN9Ft4d68f2zo7ITn0DV7eOPFMgtTWXKNjNr-kQlVA_37zT6CNDJ1v3xAkAL3j_DBAPP4X2S-MgXydMe-81XUfErSo6s9S-_W00"Диаграмма sequence")
 
